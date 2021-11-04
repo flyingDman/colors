@@ -343,7 +343,7 @@ gray,"Gray",#808080,128,128,128
 gray_asparagus,"Gray-Asparagus",#465945,70,89,69
 gray_html_css_gray,"Gray (Html/Css Gray)",#808080,128,128,128
 gray_x11_gray,"Gray (X11 Gray)",#bebebe,190,190,190
-green_color_wheel_x11_green,"Green (Color Wheel) (X11 Green)",#0f0,0,255,0
+green_color_wheel_x11_green,"Green (Color Wheel) (X11 Green)",#00ff00,0,255,0
 green_crayola,"Green (Crayola)",#1cac78,28,172,120
 green_html_css_green,"Green (Html/Css Green)",#008000,0,128,0
 green_munsell,"Green (Munsell)",#00a877,0,168,119
@@ -758,7 +758,7 @@ stil_de_grain_yellow,"Stil De Grain Yellow",#fada5e,250,218,94
 stizza,"Stizza",#990000,153,0,0
 stormcloud,"Stormcloud",#4f666a,79,102,106
 straw,"Straw",#e4d96f,228,217,111
-sunglow,"Sunglow",#fc3,255,204,51
+sunglow,"Sunglow",#ffcc33,255,204,51
 sunset,"Sunset",#fad6a5,250,214,165
 tan,"Tan",#d2b48c,210,180,140
 tangelo,"Tangelo",#f94d00,249,77,0
@@ -812,7 +812,7 @@ umber,"Umber",#635147,99,81,71
 unbleached_silk,"Unbleached Silk",#ffddca,255,221,202
 united_nations_blue,"United Nations Blue",#5b92e5,91,146,229
 university_of_california_gold,"University Of California Gold",#b78727,183,135,39
-unmellow_yellow,"Unmellow Yellow",#ff6,255,255,102
+unmellow_yellow,"Unmellow Yellow",#ffff66,255,255,102
 up_forest_green,"Up Forest Green",#014421,1,68,33
 up_maroon,"Up Maroon",#7b1113,123,17,19
 upsdell_red,"Upsdell Red",#ae2029,174,32,41
