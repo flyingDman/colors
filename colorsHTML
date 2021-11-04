@@ -217,7 +217,7 @@ dark_khaki,"Dark Khaki",#bdb76b,189,183,107
 dark_lava,"Dark Lava",#483c32,72,60,50
 dark_lavender,"Dark Lavender",#734f96,115,79,150
 dark_magenta,"Dark Magenta",#8b008b,139,0,139
-dark_midnight_blue,"Dark Midnight Blue",#036,0,51,102
+dark_midnight_blue,"Dark Midnight Blue",#003366,0,51,102
 dark_olive_green,"Dark Olive Green",#556b2f,85,107,47
 dark_orange,"Dark Orange",#ff8c00,255,140,0
 dark_orchid,"Dark Orchid",#9932cc,153,50,204
@@ -457,7 +457,7 @@ lion,"Lion",#c19a6b,193,154,107
 little_boy_blue,"Little Boy Blue",#6ca0dc,108,160,220
 liver,"Liver",#534b4f,83,75,79
 lust,"Lust",#e62020,230,32,32
-magenta,"Magenta",#f0f,255,0,255
+magenta,"Magenta",#ff00ff,255,0,255
 magenta_dye,"Magenta (Dye)",#ca1f7b,202,31,123
 magenta_process,"Magenta (Process)",#ff0090,255,0,144
 magic_mint,"Magic Mint",#aaf0d1,170,240,209
@@ -533,7 +533,7 @@ new_york_pink,"New York Pink",#d7837f,215,131,127
 non_photo_blue,"Non-Photo Blue",#a4dded,164,221,237
 north_texas_green,"North Texas Green",#059033,5,144,51
 ocean_boat_blue,"Ocean Boat Blue",#0077be,0,119,190
-ochre,"Ochre",#c72,204,119,34
+ochre,"Ochre",#cc7722,204,119,34
 office_green,"Office Green",#008000,0,128,0
 old_gold,"Old Gold",#cfb53b,207,181,59
 old_lace,"Old Lace",#fdf5e6,253,245,230
